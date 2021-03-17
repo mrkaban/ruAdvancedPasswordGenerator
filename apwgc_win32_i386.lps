@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="apwgc_win32_i386.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="apwgc"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="2"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainclass.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mainclass"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="1" Y="22"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="parsecmdline.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="parsecmdline"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="8"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="sysutils.pp"/>
+        <UnitName Value="sysutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="817"/>
+        <CursorPos X="44" Y="6"/>
+        <UsageCount Value="24"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="sysutilh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="225"/>
+        <CursorPos X="4" Y="246"/>
+        <UsageCount Value="24"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/rtl/inc/getopts.pp"/>
+        <UnitName Value="getopts"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="37"/>
+        <CursorPos X="13" Y="16"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="sysutils.pas"/>
+        <UnitName Value="sysutils"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos X="2" Y="41"/>
+        <UsageCount Value="19"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/rtl/objpas/sysutils/syspch.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7"/>
+        <CursorPos X="2" Y="23"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/rtl/inc/systemh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="570"/>
+        <CursorPos X="11" Y="585"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/share/fpcsrc/2.6.2/rtl/inc/objpash.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="126"/>
+        <CursorPos X="32" Y="148"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="21" HistoryIndex="20">
+      <Position1>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="59" Column="3" TopLine="41"/>
+      </Position1>
+      <Position2>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="56" Column="24" TopLine="34"/>
+      </Position2>
+      <Position3>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="140" Column="3" TopLine="114"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="56" Column="29" TopLine="47"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="136" Column="3" TopLine="111"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="131" Column="33" TopLine="103"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="125" Column="15" TopLine="101"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="54" Column="25" TopLine="37"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="109" Column="19" TopLine="93"/>
+      </Position9>
+      <Position10>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="70" Column="3" TopLine="54"/>
+      </Position10>
+      <Position11>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="60" Column="25" TopLine="51"/>
+      </Position11>
+      <Position12>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="107" Column="47" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="107" Column="47" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="mainclass.pas"/>
+        <Caret Line="8" Column="3" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="10" Column="44" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="95" Column="1" TopLine="59"/>
+      </Position16>
+      <Position17>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="8" Column="30" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="84" Column="28" TopLine="69"/>
+      </Position18>
+      <Position19>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="10" Column="11" TopLine="1"/>
+      </Position19>
+      <Position20>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="26" Column="3" TopLine="1"/>
+      </Position20>
+      <Position21>
+        <Filename Value="parsecmdline.pas"/>
+        <Caret Line="18" Column="3" TopLine="1"/>
+      </Position21>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

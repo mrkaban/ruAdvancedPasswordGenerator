@@ -1,0 +1,25 @@
+object Form2: TForm2
+  Left = 340
+  Height = 252
+  Top = 154
+  Width = 447
+  Caption = 'Хэши пароля'
+  ClientHeight = 252
+  ClientWidth = 447
+  Position = poScreenCenter
+  LCLVersion = '1.8.4.0'
+  object Memo1: TMemo
+    Left = 4
+    Height = 244
+    Top = 4
+    Width = 439
+    Align = alClient
+    BorderSpacing.Around = 4
+    Lines.Strings = (
+      'Memo1'
+    )
+    ReadOnly = True
+    TabOrder = 0
+    WordWrap = False
+  end
+end
